@@ -25,7 +25,7 @@
     },
     {
       "matches": ["*://deploy.browserstack.com/admin/terminals"],
-      "js": ["jquery-latest.js", "machine_adder.js"]
+      "js": ["jquery-latest.js", "machine_adder.js", "sorttable-utf.js"]
     }
   ],
   "manifest_version": 2
