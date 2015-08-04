@@ -24,7 +24,7 @@
       "js": ["jquery-latest.js", "jquery.tablesorter.js", "tablesorter.js", "sorttable-utf.js"]
     },
     {
-      "matches": ["*://deploy.browserstack.com/admin/terminals"],
+      "matches": ["*://deploy.*.com/admin/terminals"],
       "js": ["jquery-latest.js", "machine_adder.js", "sorttable-utf.js"]
     }
   ],
